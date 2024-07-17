@@ -1,5 +1,5 @@
 /**
-   * Create By Dika Ardnt.
+   * Create By 👉Dilshan Ashinsa👈
    * Recode By Naze Dev
    * Contact Me on wa.me/6282113821188
    * Follow https://github.com/nazedev
@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['94704224474']
+global.ownernomer = "94704224474"
+global.premium = ['94704224474']
 global.packname = 'Sticker By'
 global.author = 'Naze Dev'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
